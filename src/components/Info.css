@@ -1,0 +1,19 @@
+.bottom {
+  border: solid gray 1px;
+  width: 600px;
+  height: 160px;
+  text-align: center;
+  justify-content: center;
+  margin-left: 30%;
+}
+
+img {
+  margin-left: 15%;
+  float: left;
+  border-radius: 50%;
+  border: solid black 5px;
+}
+
+.bold {
+  font-weight: 800;
+}
